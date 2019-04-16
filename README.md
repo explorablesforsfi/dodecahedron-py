@@ -17,4 +17,4 @@ Run the code
 
     python make_dodecahedron_graph.py
 
-![output](https://github.com/explorablesforsfi/percolation-py/raw/master/dodecahedron.png)
+![output](https://github.com/explorablesforsfi/dodecahedron-py/raw/master/dodecahedron.png)
