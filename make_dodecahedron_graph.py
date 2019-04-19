@@ -62,7 +62,7 @@ nx.draw(G,
 node_link_data = nx.node_link_data(G)
 
 with open('dodecahedron.json','w') as f:
-    json.dump(node_link_data,f)
+    json.dump(node_link_data,f,indent=2,sort_keys=True)
 
 fig.savefig('dodecahedron.png',dpi=150)
 
